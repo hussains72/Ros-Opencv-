@@ -73,6 +73,10 @@ cd ~/catkin_ws
 
 catkin_make  
 
+cd ~/catkin_ws/src/cv_basics
+
+mkdir launch  
+
 roscd cv_basics/launch  
 
 gedit cv_basics_cpp.launch  
