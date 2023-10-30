@@ -14,7 +14,7 @@ cd ~/catkin_ws/src
 
 catkin_create_pkg cv_basics image_transport cv_bridge sensor_msgs rospy roscpp std_msgs
 
-### Create the Image Publisher Node (C++)  
+### Create the Image Subscriber Node (C++)  
 
 cd ..  
 
